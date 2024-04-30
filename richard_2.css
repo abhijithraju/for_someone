@@ -15,7 +15,7 @@
   
   }
   body{
-  
+  background-color: aqua;
     perspective:100px;
     .top{
       transform: rotateX(90deg) ;
